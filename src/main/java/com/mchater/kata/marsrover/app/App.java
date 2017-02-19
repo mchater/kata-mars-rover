@@ -14,7 +14,7 @@ import com.mchater.kata.marsrover.utilities.RoverUtil;
 /**
  * Class App.java This class is main class for Mars rover program.
  * 
- * @author mchater
+ * @author m.chater
  */
 public class App {
 
